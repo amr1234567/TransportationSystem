@@ -1,0 +1,15 @@
+Customer(Id,UserName,Password,Email)   Cust_Phone(Cust_Id,Phone)
+
+BusStopManager(Id,UserName,Password,Email,Bus_Station_Name)   BusStopManger_Phone(BusStopManger_Id,Phone)
+
+Journey(Id,Start_Time,End_Time,Date,Creator_Id,Finisher_Id,Start_Bus_Station_Id,End_Bus_Station_Id,Bus_Id)
+
+Ticket(Id,Price,Seat_Number,Expire_Date,Start_Date,Cust_Id,Journey_Id)
+
+Bus(Id,Number_Of_Seats)
+
+Seat(Id,Number_Of_Seat,Bus_Id)
+
+Cust_Journey(Cust_Id,Journey_Id)
+
+Goes_To(Start_Bus_Station_Id,End_Bus_Station_Id,Destination)
