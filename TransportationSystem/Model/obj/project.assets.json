@@ -4248,11 +4248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amr_Shalaby\\Desktop\\Transportation System\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\Amr_Shalaby\\Desktop\\SE_Project\\TransportationSystem\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\Amr_Shalaby\\Desktop\\Transportation System\\Model\\Model.csproj",
+      "projectPath": "C:\\Users\\Amr_Shalaby\\Desktop\\SE_Project\\TransportationSystem\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\Amr_Shalaby\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amr_Shalaby\\Desktop\\Transportation System\\Model\\obj\\",
+      "outputPath": "C:\\Users\\Amr_Shalaby\\Desktop\\SE_Project\\TransportationSystem\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4326,7 +4326,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
