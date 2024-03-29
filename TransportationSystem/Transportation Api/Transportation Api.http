@@ -1,6 +1,0 @@
-@Transportation_Api_HostAddress = http://localhost:5193
-
-GET {{Transportation_Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
